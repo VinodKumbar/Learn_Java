@@ -14,6 +14,13 @@ public abstract class ParentAirCraft {
 	 * Abstract classes achieved Partial Abstraction
 	 * 
 	 * Interface are used to for 100% Abstraction
+	 * 
+	 * extend keyword used to inherit the Abstract Class
+	 * implement keyword used to inherit Interface class
+	 * 
+	 *  we can create object for Abstract class ( instantiate )
+	 *  
+	 *  can not use Private method
 	 */
 	
 	public void engine() {
